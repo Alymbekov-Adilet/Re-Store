@@ -1,0 +1,15 @@
+.box-header {
+  display: flex;
+  justify-content: space-between;
+  .logo {
+    font-size: 35px;
+  }
+
+  .shopping-cart {
+    font-size: 25px;
+    color: cadetblue;
+    .cart-icon {
+      font-size: 35px;
+    }
+  }
+}
